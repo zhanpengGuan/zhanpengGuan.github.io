@@ -17,3 +17,28 @@ Contcat me
 ======
 Email1: guanzhanpeng22@mails.ucas.ac.cn <br />
 Email2: mrguanzp@163.com
+
+
+
+  
+Research Interests
+======
+* Knowledge Grapg Embedding (KGE)
+  * Imbalanced Scenarios / long-tail data distribution
+* Large Language Model
+  * Prompt Learning 
+  * Natrual Language Generation
+* Information Retrieval
+  * KG for IR
+  * Cross-lingual IR
+
+
+Publications
+======
+  **Weighted Knowledge Graph Embedding.**
+  Zhao Zhang, Zhanpeng Guan,Fuwei Zhang,Fuzhen Zhuang, Chao Li, Yongjun Xu.
+  To appear in ***SIGIR*** 2023.
+  
+Blogs
+======
+  waiting...
