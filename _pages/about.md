@@ -25,18 +25,18 @@ Research Interests
 ======
 * Knowledge Grapg Embedding (KGE)
   * Imbalanced Scenarios / long-tail data distribution
-* Large Language Model
+* Large Language Model (LLM)
   * Prompt Learning 
   * Natrual Language Generation
-* Information Retrieval
+* Information Retrieval (IR)
   * KG for IR
   * Cross-lingual IR
 
 
 Publications
 ======
-  **Weighted Knowledge Graph Embedding.**
-  Zhao Zhang, Zhanpeng Guan,Fuwei Zhang,Fuzhen Zhuang, Chao Li, Yongjun Xu.
+  **Weighted Knowledge Graph Embedding.**<br />
+  Zhao Zhang, Zhanpeng Guan,Fuwei Zhang,Fuzhen Zhuang, Chao Li, Yongjun Xu.<br />
   To appear in ***SIGIR*** 2023.
   
 Blogs
