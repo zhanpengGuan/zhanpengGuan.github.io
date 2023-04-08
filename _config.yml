@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "ZhanpengGuan/关展鹏"
 title_separator          : "-"
-name                     : &name "zhanpeng Guan"
+name                     : &name "Zhanpeng Guan"
 description              : &description "I major in AI,NLP in UCAS"
 url                      : https://zhanpengGuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
