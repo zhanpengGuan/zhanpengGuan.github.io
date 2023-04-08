@@ -37,7 +37,7 @@ Publications
 ======
   **Weighted Knowledge Graph Embedding.**<br />
   Zhao Zhang*, **Zhanpeng Guan**,Fuwei Zhang,Fuzhen Zhuang, Chao Li, Yongjun Xu.<br />
-  To appear in ***SIGIR*** 2023.
+  To appear in **SIGIR*** 2023.
   
 Blogs
 ======
