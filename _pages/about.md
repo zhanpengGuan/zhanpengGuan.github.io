@@ -13,7 +13,7 @@ About me
 I am currently studying at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). <br />
 I received my B.S. of CS from Xidian University in 2022.
 
-Contcat me
+Contact me
 ======
 Email1: guanzhanpeng22@mails.ucas.ac.cn <br />
 Email2: mrguanzp@163.com
