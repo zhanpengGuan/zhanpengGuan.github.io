@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "NLP"
+title: "Publications"
 permalink: /nlp/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Publications
-======
-  **Weighted Knowledge Graph Embedding.**<br />
-  Zhao Zhang, Zhanpeng Guan,Fuwei Zhang,Fuzhen Zhuang, Chao Li, Yongjun Xu.<br />
-  To appear in ***SIGIR*** 2023.
+
+**Weighted Knowledge Graph Embedding.**<br />
+Zhao Zhang*, **Zhanpeng Guan**,Fuwei Zhang,Fuzhen Zhuang, Chao Li, Yongjun Xu.<br />
+To appear in ***SIGIR*** 2023.
