@@ -23,7 +23,7 @@ Email2: mrguanzp@163.com
   
 Research Interests
 ======
-* Knowledge Grapg Embedding (KGE)
+* Knowledge Graph Embedding (KGE)
   * Imbalanced Scenarios / long-tail data distribution
 * Large Language Model (LLM)
   * Prompt Learning 
