@@ -36,7 +36,7 @@ Research Interests
 Publications
 ======
 
-  -**Bootstrapping in the Loop: Multi-hop QuestionAnswering via Alternating Decomposition andRetrieval**<br />
+  - **Bootstrapping in the Loop: Multi-hop QuestionAnswering via Alternating Decomposition andRetrieval**<br />
   *JiaWei He\*, **Zhanpeng Guan\***, Fuwei Zhang, Zhao Zhang.
   To Appear in The 19th ACM International Conference on Web Search and Data Mining(WSDM) 2026.*
 
@@ -51,6 +51,7 @@ Publications
   - **Weighted Knowledge Graph Embedding.**<br />
   *Zhao Zhang\*, **Zhanpeng Guan**, Fuwei Zhang, Fuzhen Zhuang, Chao Li, Yongjun Xu.<br />
    The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval(SIGIR) 2023.*
+   
 Blogs
 ======
   waiting...
