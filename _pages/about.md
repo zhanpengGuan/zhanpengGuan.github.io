@@ -10,13 +10,12 @@ redirect_from:
 
 About me
 ======
-I am currently studying at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). <br />
-I received my B.S. of CS from Xidian University in 2022.
+I recieved my M. S. of CS at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) in 2025. <br />
+I received my B.S. of CS from Xidian University (XDU) in 2022.
 
 Contact me
 ======
-Email1: guanzhanpeng22@mails.ucas.ac.cn <br />
-Email2: mrguanzp@163.com
+Email1: mrguanzp@163.com
 
 
 
@@ -28,6 +27,7 @@ Research Interests
 * Large Language Model (LLM)
   * Prompt Learning 
   * Natrual Language Generation
+  * Question Answering
 * Information Retrieval (IR)
   * KG for IR
   * Cross-lingual IR
@@ -36,12 +36,12 @@ Research Interests
 Publications
 ======
 
-  - **Bootstrapping in the Loop: Multi-hop QuestionAnswering via Alternating Decomposition andRetrieval**<br />
+  - **Bootstrapping in the Loop: Multi-hop QuestionAnswering via Alternating Decomposition and Retrieval**<br />
   *JiaWei He\*, **Zhanpeng Guan\***, Fuwei Zhang, Zhao Zhang.
-  To Appear in The 19th ACM International Conference on Web Search and Data Mining(WSDM) 2026.*
+  To Appear in The 19th ACM International Conference on Web Search and Data Mining(WSDM) 2026. (where \* means the authors contributed equally.)*
 
   - **AdaE: Knowledge Graph Embedding with Adaptive Embedding Sizes.**<br />
-  ***Zhanpeng Guan**, Fuwei Zhang,Zhao zhang\*, Fuzhen Zhuang, Fei Wang, Zhuilin An,Yongjun Xu.<br />
+  ***Zhanpeng Guan**, Fuwei Zhang, Zhao zhang\*, Fuzhen Zhuang, Fei Wang, Zhuilin An,Yongjun Xu.<br />
   IEEE Transactions on Knowledge and Data Engineering(TKDE) 2025.*  
 
   - **Should We Use a Fixed Embedding Size? Customized Dimension Sizes for Knowledge Graph Embedding.**<br />
@@ -51,7 +51,7 @@ Publications
   - **Weighted Knowledge Graph Embedding.**<br />
   *Zhao Zhang\*, **Zhanpeng Guan**, Fuwei Zhang, Fuzhen Zhuang, Chao Li, Yongjun Xu.<br />
    The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval(SIGIR) 2023.*
-   
+
 Blogs
 ======
   waiting...
