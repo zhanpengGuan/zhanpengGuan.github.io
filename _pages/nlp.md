@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
- - **Bootstrapping in the Loop: Multi-hop QuestionAnswering via Alternating Decomposition andRetrieval**<br />
+  - **Bootstrapping in the Loop: Multi-hop QuestionAnswering via Alternating Decomposition andRetrieval**<br />
   *JiaWei He\*, **Zhanpeng Guan\***, Fuwei Zhang, Zhao Zhang.
   To Appear in The 19th ACM International Conference on Web Search and Data Mining(WSDM) 2026.*
 
