@@ -34,17 +34,18 @@ Research Interests
 
 
 Publications
-
 ======
+
   -**Bootstrapping in the Loop: Multi-hop QuestionAnswering via Alternating Decomposition andRetrieval**<br />
-  JiaWei He*, **Zhanpeng Guan\***, Fuwei Zhang, Zhao Zhang.
-  To Appear in The 19th ACM International Conference on Web Search and Data Mining(WSDM) 2026.
+  *JiaWei He\*, **Zhanpeng Guan\***, Fuwei Zhang, Zhao Zhang.
+  To Appear in The 19th ACM International Conference on Web Search and Data Mining(WSDM) 2026.*
+
   - **AdaE: Knowledge Graph Embedding with Adaptive Embedding Sizes.**<br />
-  **Zhanpeng Guan**, Fuwei Zhang,Zhao zhang\*, Fuzhen Zhuang, Fei Wang, Zhuilin An,Yongjun Xu.<br />
+  ***Zhanpeng Guan**, Fuwei Zhang,Zhao zhang\*, Fuzhen Zhuang, Fei Wang, Zhuilin An,Yongjun Xu.<br />
   IEEE Transactions on Knowledge and Data Engineering(TKDE) 2025.*  
 
   - **Should We Use a Fixed Embedding Size? Customized Dimension Sizes for Knowledge Graph Embedding.**<br />
-  **Zhanpeng Guan**, Zhao zhang\*, Yiqing Wu, Fuwei Zhang, Yongjun Xu.<br />
+  ***Zhanpeng Guan**, Zhao zhang\*, Yiqing Wu, Fuwei Zhang, Yongjun Xu.<br />
   The 31st International Conference on Computational Linguistics (COLING) 2025.*  
 
   - **Weighted Knowledge Graph Embedding.**<br />
