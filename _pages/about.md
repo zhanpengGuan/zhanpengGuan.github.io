@@ -15,7 +15,7 @@ I received my B.S. of CS from Xidian University (XDU) in 2022.
 
 Contact me
 ======
-Email1: mrguanzp@163.com
+Email1: mrguanz at 163 dot com
 
 
 
