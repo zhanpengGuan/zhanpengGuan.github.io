@@ -15,7 +15,7 @@ I received my B.S. of CS from Xidian University (XDU) in 2022.
 
 Contact me
 ======
-Email1: mrguanz at 163 dot com
+Email1: mrguanzp at 163 dot com
 
 
 
@@ -42,7 +42,7 @@ Publications
 
   - **AdaE: Knowledge Graph Embedding with Adaptive Embedding Sizes.**<br />
   ***Zhanpeng Guan**, Fuwei Zhang, Zhao zhang\*, Fuzhen Zhuang, Fei Wang, Zhuilin An,Yongjun Xu.<br />
-  IEEE Transactions on Knowledge and Data Engineering(TKDE) 2025.[CCF-A]*  
+  IEEE Transactions on Knowledge and Data Engineering(TKDE) 2025.[CCF-A]**  
 
   - **Should We Use a Fixed Embedding Size? Customized Dimension Sizes for Knowledge Graph Embedding.**<br />
   ***Zhanpeng Guan**, Zhao zhang\*, Yiqing Wu, Fuwei Zhang, Yongjun Xu.<br />

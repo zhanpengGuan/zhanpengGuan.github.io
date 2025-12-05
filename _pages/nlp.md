@@ -11,7 +11,7 @@ redirect_from:
 
 
   - **Bootstrapping in the Loop: Multi-hop QuestionAnswering via Alternating Decomposition and Retrieval.**<br />
-  *JiaWei He\*, **Zhanpeng Guan\***, Fuwei Zhang, Zhao Zhang.
+  *JiaWei He^1, **Zhanpeng Guan^1**, Fuwei Zhang, Zhao Zhang.
   To Appear in The 19th ACM International Conference on Web Search and Data Mining(WSDM) 2026.[CCF-B] (where \* means the authors contributed equally.)*
 
   - **AdaE: Knowledge Graph Embedding with Adaptive Embedding Sizes.**<br />
