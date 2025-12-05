@@ -25,8 +25,8 @@ Research Interests
 * Knowledge Graph Embedding (KGE)
   * Imbalanced Scenarios / long-tail data distribution
 * Large Language Model (LLM)
-  * Prompt Learning 
-  * Natrual Language Generation
+  * RAG
+  * Multi-hop Reasoning
   * Question Answering
 * Information Retrieval (IR)
   * KG for IR
